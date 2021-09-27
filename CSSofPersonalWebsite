@@ -1,0 +1,44 @@
+p {color: blue;
+  font-style:
+  italic;
+  text-align: center;}
+
+body{color: green;}
+body{margin:50px;}
+
+#history-of-jokes a: hover
+
+#What-is-Humor? a:hover
+
+.Laugh-cry-emoji{
+  float: left;
+  width:360px;}
+  .Laugh-cry-emoji2{
+    float: right;
+    width:360px;}
+
+h2 {font-size: 48px;}
+
+#title{font-size: 10px;}
+
+#Tab-links a:hover,
+#Tab-links a:focus,
+#Tab-links a:active {text-decoration:underline;}
+#Tab-links a,
+#Tab-links a:visited {text-decoration:none;}
+#Tab-links{font-size:1.5em}
+
+h1 {
+  background-color: #666;
+  text-align: center;
+  font-size: 35px;
+  color: white;}
+
+.type-and-history {
+  text-align:center;
+  font-size: 35px;
+  color: green;}
+
+  h3 {font-family: fantasy;
+  align: right; color: orange;}
+  i {font-family: fantasy;}

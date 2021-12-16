@@ -1,0 +1,93 @@
+p {color: blue;
+  font-style:
+  italic;
+  text-align: center;}
+
+body{color: green;}
+body{margin:10px;}
+body {
+  background-image: url(img/lancaster-yellow-swatch.jpg);
+  background-repeat: repeat;
+  background-size: auto;
+  margin-left: 10px
+}
+
+#history-of-jokes a: hover
+
+#What-is-Humor? a:hover
+
+.Laugh-cry-emoji{
+  float: left;
+  width:360px;}
+  .Laugh-cry-emoji2{
+    float: right;
+    width:360px;}
+
+h2 {font-size: 48px;}
+
+#title{font-size: 10px;}
+
+#Tab-links a:hover,
+#Tab-links a:focus,
+#Tab-links a:active {text-decoration:none;}
+#Tab-links a,
+#Tab-links a:visited {text-decoration:none;}
+#Tab-links{font-size:1.5em}
+#Tab-links {width: 20%;
+padding: 5px;
+display: inline;
+float: left;
+text-align: center;}
+
+#Tab-links{
+	float: right;
+	margin-top: 1%;
+	margin-left: 10%;
+}
+#Tab-links ul li {
+	list-style-type: none: ;
+	padding: 10px;
+}
+#Tab-links ul li a:hover,
+#Tab-links ul li a:focus,
+#Tab-links ul li a:active {
+	color: #16f;
+	border-bottom: 2px solid #39f;}
+  title {
+    position: fixed;
+  }
+
+h1 {
+  background-color: #666;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  padding: 10px;
+  position: relative;}
+
+.type-and-history {
+  text-align:center;
+  font-size: 35px;
+  color: green;}
+
+  #h3
+  {margin: 10%}
+  {font-family: fantasy;
+  align: right; color: orange;}
+  i {font-family: fantasy}
+  h3 {margin-left: 10px
+  padding: 1%}
+  h3 {}
+
+  #Laugh-cry-emoji {
+    position: fixed;
+    }
+  #Laugh-cry-emoji2 {
+    position: absolute;}
+
+  #history-of-jokes {
+    width: : 50%;
+  }
+  #h3 {
+    width: 50%;
+  }
